@@ -27,8 +27,10 @@ An end-to-end AI HR automation workflow built in **n8n** that:
 - Gmail (candidate communication)
 
 ## Files
-- `workflows/AI HR Agent.json` – n8n workflow export
 - `docs/setup-guide.md` – setup and credentials steps
+
+## Workflow
+![workflow](ai-hr-agent-workflow.png)
 
 ## Author
 Yaswanth Donthala
